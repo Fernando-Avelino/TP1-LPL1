@@ -8,8 +8,9 @@ import java.util.Scanner;
 
 /**
  7. Calcular e exibir a média geométrica de dois valores quaisquer que serão digitados. 
-  Autores: Fernando Avelino 
-	          Vinícius Nunes
+ 
+ Autores: Fernando Avelino 
+	  Vinícius Nunes
 */
 public class TP01Ex07 {
     public static void main(String[] args) {
