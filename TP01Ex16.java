@@ -11,7 +11,7 @@ import java.util.Scanner;
  seguintes funções trigonométricas: seno, cosseno, tangente e secante deste 
  ângulo. Lembre-se que uma função trigonométrica trabalha em radianos. 
  Autores: Fernando Avelino 
-	         Vinícius Nunes
+	  Vinícius Nunes
  */
 public class TP01Ex16 {
     public static void main(String[] args) {
