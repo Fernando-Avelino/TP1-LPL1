@@ -9,6 +9,8 @@ import java.util.Scanner;
 
 /**
  5. Calcular e exibir o volume de uma esfera a partir do valor de seu diâmetro que será digitado. 
+ Autores: Fernando Avelino 
+	         Vinícius Nunes
  */
 public class TP01Ex05 {
     public static void main(String arg[]){
