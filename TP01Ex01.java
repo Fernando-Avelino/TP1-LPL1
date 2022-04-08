@@ -8,7 +8,10 @@ import java.util.Scanner;
 
 /**
 1. Entrar via teclado com a base e a altura de um retângulo, calcular e exibir sua área. 
- */
+
+Autores: Fernando Avelino 
+	 Vinícius Nunes
+*/
 
 public class TP01Ex01 {
     public static void main (String args[]){
