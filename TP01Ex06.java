@@ -8,6 +8,8 @@ import java.util.Scanner;
 
 /**
 6. Calcular e exibir a média aritmética de quatro valores quaisquer que serão digitados. 
+Autores: Fernando Avelino 
+	     Vinícius Nunes 
  */
 public class TP01Ex06 {
     public static void main(String args[]){
