@@ -10,7 +10,10 @@ import java.util.Scanner;
  18. Entrar via teclado com o valor de cinco produtos. Após as entradas, digitar
  um valor referente ao pagamento da somatória destes valores. Calcular e exibir
  o troco que deverá ser devolvido.
- */
+
+Autores: Fernando Avelino 
+	 Vinícius Nunes
+*/
 public class TP01Ex18 {
     public static void main(String args[]){
     
