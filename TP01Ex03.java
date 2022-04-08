@@ -8,6 +8,7 @@ import java.util.Scanner;
 
 /**
  3. Calcular e exibir a área de um quadrado a partir do valor de sua diagonal que será digitado. 
+ 
  Autores: Fernando Avelino 
 	  Vinícius Nunes
  */
