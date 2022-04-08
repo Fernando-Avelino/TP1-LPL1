@@ -8,8 +8,9 @@ import java.util.Scanner;
 
 /**
  4. A partir dos valores da base e altura de um triângulo, calcular e exibir sua área. 
+
 Autores: Fernando Avelino 
-	        Vinícius Nunes
+	 Vinícius Nunes
 */
 public class TP01Ex04 {
     public static void main (String args[]){
