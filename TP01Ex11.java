@@ -8,6 +8,8 @@ import java.util.Scanner;
 
 /**
  11. A partir do diâmetro de um círculo que será digitado, calcular e exibir sua área. 
+ Autores: Fernando Avelino 
+	  Vinícius Nunes
  */
 public class TP01Ex11 {
     public static void main(String[] args) {
